@@ -1,5 +1,5 @@
 <h1><p align="center">Hello, I'm Michael Ehab!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"></p></h1>
-A Student at Faculty of Engineering, Cairo University.
+Computer Engineering Student at Faculty of Engineering, Cairo University.
 
 I’m interested in Problem solving, Competitive programming, Full-stack web development and AI.
 
