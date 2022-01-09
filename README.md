@@ -1,8 +1,10 @@
 <div align="center">
   
-  # Hello, I'm Michael Ehab!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  [![Repos Badge](https://badges.pufler.dev/repos/michaelehab)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=michaelehab&label=Profile%20views&color=0e75b6&style=flat" alt="michaelehab" />
+  ![](https://github.com/michaelehab/michaelehab/blob/main/img/Readme-Cover.jpg)
+  # Hi, I'm Michael Ehab!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  ![Repos Badge](https://badges.pufler.dev/repos/michaelehab)
+  ![Years Badge](https://badges.pufler.dev/years/michaelehab)
+  ![Profile Views](https://komarev.com/ghpvc/?username=michaelehab&color=brightgreen)
   
 </div>
 
