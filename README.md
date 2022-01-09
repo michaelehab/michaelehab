@@ -1,6 +1,5 @@
 <div align="center">
-  
-  ![](https://github.com/michaelehab/michaelehab/blob/main/img/Readme-Cover.jpg)
+
   # Hi, I'm Michael Ehab!<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
   ![Repos Badge](https://badges.pufler.dev/repos/michaelehab)
   ![Years Badge](https://badges.pufler.dev/years/michaelehab)
