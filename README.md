@@ -7,7 +7,7 @@
   
 </div>
 
-## 👩‍💻 About me
+## 👨‍💻 About me
   * 🇪🇬 I'm from Cairo, Egypt
   * 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
   * 💪 I’m passionate about Problem solving, Competitive programming, Full-stack web development and AI.
