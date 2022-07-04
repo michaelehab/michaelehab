@@ -1,7 +1,6 @@
 <div align="center">
 
   # Hi, I'm Michael Ehab!
-  ![Years Badge](https://badges.pufler.dev/years/michaelehab)
   ![Profile Views](https://komarev.com/ghpvc/?username=michaelehab&color=brightgreen)
   
 </div>
