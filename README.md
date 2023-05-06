@@ -7,7 +7,6 @@
 
 ## 👨‍💻 About me
   * 🇪🇬 I'm from Cairo, Egypt
-  * <img height=15 src="https://brightskiesinc.com/wp-content/themes/brightskies/img/favicon.ico"/> Software Engineering Intern at <a href="https://brightskiesinc.com/">Brightskies Inc.</a>
   * 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
   * 💪 I’m passionate about Problem solving, DevOps, Cloud Computing and AI.
 
