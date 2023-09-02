@@ -12,11 +12,14 @@
   * 💪 I’m passionate about Problem-solving, Backend Engineering, DevOps, Cloud Computing and AI.
 
 
-## 💬 Connect with me:
+## 💬 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michaelehab16/)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:michael.ehab@hotmail.com)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/michaelehab)
 [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/michaelehab)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/michaelehab/)
+
+## 📝 My latest articles
+  * [The Secrets of Large Language Models Parameters: How They Affect the Quality, Diversity, and Creativity of Generated Texts [With Examples]](https://medium.com/@michaelehab/the-secrets-of-large-language-models-parameters-how-they-affect-the-quality-diversity-and-32eb8643e631)
 </div>
