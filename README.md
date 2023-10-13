@@ -6,7 +6,9 @@
 </div>
 
 ## 👨‍💻 About me
-  * <img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png"  width=15/> Software Engineering Intern at Microsoft
+  * <img src="https://github.com/michaelehab/michaelehab/assets/29122581/22b8c0a9-91f9-4f8a-bec0-05ec59d89339" width=15/> Software Engineering Intern at Dell Technologies
+
+  * <img src="https://purepng.com/public/uploads/large/purepng.com-microsoft-logo-iconlogobrand-logoiconslogos-251519939091wmudn.png" width=15/> Former Software Engineering Intern at Microsoft
   * 🇪🇬 I'm from Cairo, Egypt
   * 💻 Computer Engineering Student at <a href="http://eng.cu.edu.eg/">Faculty of Engineering, Cairo University.</a>
   * 💪 I’m passionate about Problem-solving, Backend Engineering, DevOps, Cloud Computing and AI.
